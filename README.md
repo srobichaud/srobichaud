@@ -7,6 +7,4 @@ My name is Simon and I love gaming, coding and F1.
 - 💬 Ask me about: Laravel or Alpine.js
 - 😄 Pronouns: he/him
 
-![Simon's github stats](https://github-readme-stats.vercel.app/api?username=srobichaud&show_icons=true&theme=merko)
-
 I worked on several projects such as https://www.spypoint.com/en, https://mikeward.ca/en and more. I've worked with schools and corporate clients. If you ever need help with anything just ask 😁
